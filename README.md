@@ -32,6 +32,8 @@ Before to install the battery compartment with the batteries inside it should be
 | ![top view](.IMG/P001.jpg) | ![bottom view](.IMG/P002.jpg) | ![logic board](.IMG/P003.jpg) | ![installation](.IMG/P004.jpg) |
 |:---:|:---:|:---:|:---:|
 
+</br>
+
 ### **- Mac Plus**
 
 | <p style="width:150px;text-align:center;"><img alt="Mac Plus" src=".IMG/M01A.jpg" width="200"/></p> | PRAM Battery. <br/>The battery case is pretty match as for previous model with the only difference, it attaches directly to standard battery holder of Mac. To install it you need to gently bend down all 3 capacitors that located right behind your Mac's battery. Despite it designed to use 4.5V battery, in my experience 3.5 ± 0.4V is enough.  <br/>Cooling Fan. <br/>Mac Plus was designed to be cooled passively via natural convective flow through the ventilation grates all over its housing. Sometimer it is not enough, so it gets noticeably hot. In order to make its life longer I've installed cooling fan at one of the vent. grates from the inside of the housing. |
@@ -82,9 +84,23 @@ A much secure solution is to use any of the following connectors:
 
 ---
 
+
+
 ### **+ Photos**
 
 | ![PIC1](.IMG/P201.jpeg) | ![PIC2](.IMG/P202.jpeg) | ![PIC3](.IMG/P203.jpeg) | ![PIC4](.IMG/P204.jpeg) | ![PIC5](.IMG/P205.jpeg) | ![PIC6](.IMG/P206.jpeg) | ![PIC7](.IMG/P207.jpeg) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+<br/>
+
+### **- Zero Track Finder (DO NOT USE if your drive works properly)**
+
+| <p style="width:150px;text-align:center;"><img alt="Mac Plus" src=".IMG/P300.jpg" width="200"/></p> | This is a simple tool which may help you to adjust zero track sensor on SONY-F75W-XX floppy drives. Place it over the sensor and secure the assembly. Loosen the sensor screw and slowly adjust the knob, insert the disk. If zero track has been found the floppy will start reading properly, if not repeat adjustment and insert the disk again. Once you finished, secure the sensor on its place and take off Zero Finder assembly. |
+|:---:|:---|
+
+### **+ Photos**
+
+| ![PIC1](.IMG/P304.jpg) | ![PIC2](.IMG/P301.jpg) | ![PIC3](.IMG/P302.jpg) | ![PIC4](.IMG/P303.jpg) |
+|:---:|:---:|:---:|:---:|
 
 <br/>
