@@ -1,15 +1,15 @@
 # Upgrading Classic Macintosh
 |![WARNING](https://friconix.com/png/fi-ensuxs-warning-solid.png) |The project requires minimal operating skills with electronics, you must have a simple multimeter and soldering iron as well as to be able to use them properly. Everything you do hereinafter is at your own risk. :) |
 |:---:|:---|
-|![ATTENTION](https://friconix.com/png/fi-owpdxs-plug-alt.png)| **<u>DO NOT</u> forget to discharge the CRT before to touch any internal parts of your Mac.** |
+|![ATTENTION](https://friconix.com/png/fi-owpdxs-plug-alt.png)| **<u>DISCHARGE</u> the CRT before to touch any internal parts of your Mac.** |
 |![DISCLAMER](https://friconix.com/png/fi-cnsuxs-question-mark.png) | **Please refer to [issues](https://github.com/way5/mac-classic-pram-battery-bay/issues) :beetle: if you have any suggestion or found an error.**|
 
 
 ## **+ Description**
 
-### **- Mac Classic**
+### **- [Macintosh Classic](./OBJ-STL/macintosh%20classic/)**
 
-| <p style="width:150px;text-align:center;"><img alt="Mac Classic" src="./.IMG/M420.jpg" width="150" /></p>|PRAM battery.<br/>All the dimensions taken from a particular Macintosh model - M0420. The battery compartment locates in a small space between logic board and the case (see photos).<br/>Batteries will serve longer if you choose to use it from the same manufaturer and maintain them well charged. In my experience 3.2-3.9V total is enougn for proper functioning.|
+| <p style="width:150px;text-align:center;"><img alt="Macintosh Classic" src="./.IMG/M420.jpg" width="150" /></p>|PRAM battery.<br/>All the dimensions taken from a particular Macintosh model - M0420. The battery compartment locates in a small space between logic board and the case (see photos).<br/>Batteries will serve longer if you choose to use it from the same manufaturer and maintain them well charged. In my experience 3.2-3.9V total is enougn for proper functioning.|
 |:---:|:---|
 
 <br/>
@@ -34,9 +34,9 @@ Before to install the battery compartment with the batteries inside it should be
 
 </br>
 
-### **- Mac Plus**
+### **- [Macintosh Plus](./OBJ-STL/macintosh%20plus/)**
 
-| <p style="width:150px;text-align:center;"><img alt="Mac Plus" src=".IMG/M01A.jpg" width="200"/></p> | PRAM Battery. <br/>The battery case is pretty match as for previous model with the only difference, it attaches directly to standard battery holder of Mac. To install it you need to gently bend down all 3 capacitors that located right behind your Mac's battery. Despite it designed to use 4.5V battery, in my experience 3.5 ± 0.4V is enough.  <br/>Cooling Fan. <br/>Mac Plus was designed to be cooled passively via natural convective flow through the ventilation grates all over its housing. Sometimer it is not enough, so it gets noticeably hot. In order to make its life longer I've installed cooling fan at one of the vent. grates from the inside of the housing. |
+| <p style="width:150px;text-align:center;"><img alt="Macintosh Plus" src=".IMG/M01A.jpg" width="150"/></p> | PRAM Battery. <br/>The battery case is pretty match as for previous model with the only difference, it attaches directly to standard battery holder of Mac. To install it you need to gently bend down all 3 capacitors that located right behind your Mac's battery. Despite it designed to use 4.5V battery, in my experience 3.5 ± 0.4V is enough.  <br/>Cooling Fan. <br/>Mac Plus was designed to be cooled passively via natural convective flow through the ventilation grates all over its housing. Sometimer it is not enough, so it gets noticeably hot. In order to make its life longer I've installed cooling fan at one of the vent. grates from the inside of the housing. |
 |:---:|:---|
 
 <br/>
@@ -93,14 +93,42 @@ A much secure solution is to use any of the following connectors:
 
 <br/>
 
-### **- Zero Track Finder (DO NOT USE if your drive works properly)**
+### **[- Zero Track Finder](./OBJ-STL/sony%20MP-F75W/) (DO NOT USE if your drive works properly)**
 
-| <p style="width:150px;text-align:center;"><img alt="Mac Plus" src=".IMG/P300.jpg" width="200"/></p> | This is a simple tool which may help you to adjust zero track sensor on SONY-F75W-XX floppy drives. Place it over the sensor and secure the assembly. Loosen the sensor screw and slowly adjust the knob, insert the disk. If zero track has been found the floppy will start reading properly, if not repeat adjustment and insert the disk again. Once you finished, secure the sensor on its place and take off Zero Finder assembly. |
+| <p style="width:150px;text-align:center;"><img alt="Zero Track finder for SONY-F75W" src=".IMG/P300.jpg" width="150"/></p> | A simple tool which may help you to adjust zero track sensor on SONY-F75W-XX floppy drives. Place it over the sensor and secure the assembly. Loosen the sensor screw and slowly adjust the knob, insert the disk. If zero track has been found the floppy will start reading properly, if not repeat adjustment and insert the disk again. Once you finished, secure the sensor on its place and take off Zero Finder assembly. |
 |:---:|:---|
 
 ### **+ Photos**
 
 | ![PIC1](.IMG/P304.jpg) | ![PIC2](.IMG/P301.jpg) | ![PIC3](.IMG/P302.jpg) | ![PIC4](.IMG/P303.jpg) |
 |:---:|:---:|:---:|:---:|
+<br/>
+
+## **+ [Apple II](./OBJ-STL/apple%20II/)**
+
+### **- [Datanektics Keyboard, key switch shackle](./OBJ-STL/apple%20II/datanectics%20keyboard%20switch%20shackle.stl)**
+| <p style="width:150px;text-align:center;"><img alt="Apple II Datanekticts Keyboard repair" src=".IMG/P405.jpg" width="150"/></p> | There are a multiple ways to repair Apple II's Datanektiks keyboard. My decision was to crack open all malfunctioning key switches to give them a proper maintainment. When the key is back to work, clean and lubricated, you may glue the both halves of the key mechanism together as it was before or to leave the opportunity to painlessly open if it will fail again. The key swith shackle securely holds the both parts of the mechanism together and may be easily removed by whatever reason you need to open the switch in future. <br><u>Hint: Be very careful when opening the key switch with the cutter knife, do not apply too much force. Open it from the opposite to the contact pins side.</u> |
+|:---:|:---|
+
+### **- Photos**
+
+| ![PIC1](.IMG/P401.jpg) | ![PIC2](.IMG/P402.jpg) | ![PIC3](.IMG/P403.jpg) | ![PIC4](.IMG/P404.jpg) |
+|:---:|:---:|:---:|:---:|
+
+### **- [Rear insert](./OBJ-STL/apple%20II/rear%20insert.stl)**
+| <p style="width:150px;text-align:center;"><img alt="Apple II Plus" src=".IMG/P410.jpg" width="150"/></p> | Just a simple insert, originally designed for Apple II+ in order to allow some cable management on the rear side of the housing. |
+|:---:|:---|
+<br/>
+
+## **+ [Apple Keyboard (M7803)](./OBJ-STL/imac%20g4/m7809_keyboard_key_shaft.stl)**
+
+| <p style="width:150px;text-align:center;"><img alt="iMac G4 keyboard M7803" src=".IMG/P505.jpg" width="150"/></p> | The Apple keyboards are rarely reliable particularly an old ones. Let's give a chance to one of the most fragile devices by modifying the switching mechanism, adding custom key shaft instead of an unreliable side clips. |
+|:---:|:---|
+
+### **- Photos**
+
+| ![PIC1](.IMG/P501.jpg) | ![PIC2](.IMG/P502.jpg) | ![PIC3](.IMG/P503.jpg) | ![PIC4](.IMG/P504.jpg) |
+|:---:|:---:|:---:|:---:|
+
 
 <br/>
