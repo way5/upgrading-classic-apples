@@ -1,10 +1,8 @@
 # <p align="center">Upgrading Classic Apples</p>
 
 <p align="center">
-<img src="./img/LOGO.png" alt="Apple Logo" width="128" height="128"/>
+<img src="./img/LOGO.png" alt="Apple Logo"/>
 </p>
-
-<br>
 
 <h2>Table of Contents</h2>
 
@@ -219,5 +217,6 @@ The main shaft of paper feeding mechanism is connected to the stepper motor thro
 | ![PIC1](img/P701.jpg) | ![PIC2](img/P702.jpg) | ![PIC3](img/P703.jpg) |
 |:---:|:---:|:---:|
 
+<br><hr>
 
-<br>
+<sup><sup>Apple logo is used in accordance with paragraph #4 of the article [Authorized Use of Apple Trademarks](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html) </sup></sup>
